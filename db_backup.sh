@@ -1,4 +1,4 @@
-#Scrip to backup mssql and send do aws s3 - Michael Cezar - 2020-10-20 19:20
+#Script to backup mssql and send do aws s3 - Michael Cezar - 2020-10-20 19:20
 
 #Set variables
 TIMESTAMP=$(date --iso-8601=seconds)
