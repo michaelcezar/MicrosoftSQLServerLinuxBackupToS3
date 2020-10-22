@@ -1,5 +1,5 @@
 # MicrosoftSQLServerBackupToS3
-Shell script to backup SQL Server to Amazon S3
+Shell script to backup SQL Server Linux to Amazon S3
 
 Before run this script, install and configure:
 
